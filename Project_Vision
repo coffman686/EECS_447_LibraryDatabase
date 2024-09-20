@@ -1,9 +1,63 @@
-Vision statement: We are developing this library database to make managing and accessing library resources more efficient. The goal is to create a system that helps staff and users easily 
-find and borrow books, journals, and other materials. By automating tasks like tracking inventory and organizing resources, we can reduce errors and save time. Ultimately, 
-this database will support learning and research by making the library run more smoothly and improving the overall experience for users.
+Vision Statement: The Library Management System (LMS) project will deliver an efficient, user-friendly, and secure database system to support
+small library operations. The LMS will enable seamless management of loanable items (books, digital media, magazines), enforce borrowing rules 
+based on diverse membership categories, and generate insightful reports. By integrating modern database design principles, the system will streamline 
+item tracking, membership management, and financial oversight. Overall enhancing the library's service to clients.
 
-Scope statement. Define the scope of the project, indicating what will be completed.
 
-Team organization and profiles. Define the team organization and team member profiles. Assign roles for the team members, and designate one member as the team administrator. Team member profiles should include: names, contact information, availability, computing platform experience, and programming language knowledge. Adding photos is recommended for future reference.
+Scope Statement: The Library Management System (LMS) project will design and implement a relational database for a small library to manage loanable
+items, memberships, borrowing rules, and generate reports. It will model entities like books, digital media, magazines, and clients, and enforce
+constraints like borrowing limits and fees based on membership type. The system will include features for managing loans, returns, and client
+accounts, with user interfaces for both staff and clients. Advanced queries will generate financial and activity reports, while concurrency and
+transaction management will ensure seamless multi-user operations. The LMS will be developed through domain modeling, database design, and
+implementation phases, ensuring functionality and data integrity.
 
-Weekly meetings. Decide on weekly meeting details: Provide the location, schedule, and methods for task allocation and tracking.
+
+Our Team:
+
+1) Olivia Blankenship -> Team Administrator
+  - Contact Information:
+    - Email:
+    - Phone:
+  - Availability:
+  - Computing Platform Experience:
+  - Programming Language Knowledge:
+
+
+2) Hale Coffman -> Database Architect
+  - Contact Information:
+    - Email: coffman686@ku.edu
+    - Phone: 913-575-7569
+  - Availability:
+  - Computing Platform Experience:
+  - Programming Language Knowledge:
+
+
+3) Aaditi Chinawalkar -> Database Developer
+  - Contact Information:
+    - Email:
+    - Phone:
+  - Availability:
+  - Computing Platform Experience:
+  - Programming Language Knowledge:
+
+
+4) Nickolas Lange -> Quality Assurance
+  - Contact Information:
+    - Email:
+    - Phone:
+  - Availability:
+  - Computing Platform Experience:
+  - Programming Language Knowledge:
+
+
+5) William Johnson -> UI Developer
+  - Contact Information:
+    - Email:
+    - Phone:
+  - Availability:
+  - Computing Platform Experience:
+  - Programming Language Knowledge:
+
+
+
+Weekly meetings: Our weekly meetings will be held...  Decide on weekly meeting details: Provide the location, schedule, and methods for task allocation and tracking.
