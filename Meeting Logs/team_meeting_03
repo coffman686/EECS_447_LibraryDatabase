@@ -1,0 +1,41 @@
+Team Meeting
+27 OCTOBER 2024 / 5 PM / DISCORD VC
+
+Attendees:
+- Olivia Blankenship -> Team Administrator
+- Hale Coffman -> Database Architect
+- Aaditi Chinawalkar -> Database Developer
+- Nickolas Lange -> Quality Assurance
+- William Johnson -> UI Developer
+
+Agenda:
+- Discuss Project Part 4: Logical Relational Schema
+- Assign work to each team member
+- Confirm check in for part 4 and next meeting time
+
+Sections to Assign:
+  - introduction
+  - Relational Schema Mapping
+    - identify relations
+    - define attributes and domains
+    - determine primary keys
+    - establish foreign keys
+  - Schema Documentation
+    - relational schema diagram
+    - data dictionary
+    - generate DDL
+    - appendices
+
+Section Assignments:
+  - Olivia --> introduction, data dictionary
+  - Hale --> relational schema diagram
+  - Aaditi --> relations, attributes and domains
+  - Nick --> primary keys and foreign keys
+  - Will --> generate ddl
+
+Notes:
+  - Olivia will check on progress on Friday, November 1st
+  - Olivia will set up documents to complete assigned sections on
+    - links will be sent via discord
+    - will review formatting before submission, so don't worry about format 
+  - Plan to meet next Sunday, November 3rd tentatively 
