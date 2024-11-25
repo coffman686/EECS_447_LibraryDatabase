@@ -1,0 +1,35 @@
+Team Meeting
+17 NOVEMBER 2024 / 5 PM / DISCORD VC
+
+Attendees:
+- Olivia Blankenship -> Team Administrator
+- Hale Coffman -> Database Architect
+- Aaditi Chinawalkar -> Database Developer
+- Nickolas Lange -> Quality Assurance
+- William Johnson -> UI Developer
+
+Agenda:
+- Discuss Project Part 5: Database Implementation and Testing
+- Assign work to each team member
+- Confirm check in for part 5 and next meeting time
+
+Sections to Assign: 
+  - choose your platform
+  - create your database
+  - data population
+  - functionality testing
+  - documentation
+  - organize code
+
+Section Assignments:
+  - Olivia --> choose your platform, create your database
+  - Hale --> data population/documentation
+  - Aaditi --> data population/documentation
+  - Nick --> functionality testing
+  - Will --> organize code (ensure sql queries are accurate)
+
+Notes:
+  - Olivia will check on progress on Sunday, December 1st
+  - Olivia will set up documents to complete assigned sections
+    - download MySQL and DataBin
+  - Plan to meet Sunday, December 1st tentatively
