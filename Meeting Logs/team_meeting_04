@@ -18,6 +18,7 @@ Sections to Assign:
   - create your database
   - data population
   - functionality testing
+  - test and validate
   - documentation
   - organize code
 
@@ -26,7 +27,7 @@ Section Assignments:
   - Hale --> data population/documentation
   - Aaditi --> data population/documentation
   - Nick --> functionality testing
-  - Will --> organize code (ensure sql queries are accurate)
+  - Will --> organize code (ensure sql queries are accurate), test and validate
 
 Notes:
   - Olivia will check on progress on Sunday, December 1st
