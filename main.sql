@@ -1,3 +1,6 @@
+CREATE DATABASE IF NOT EXISTS Library;
+USE Library;
+
 CREATE TABLE Item (
     Item_ID CHAR(10) PRIMARY KEY,
     Price INT not null,
@@ -69,6 +72,7 @@ CREATE TABLE Member (
     User_ID CHAR(10) PRIMARY KEY,
     Card_Number INT NOT NULL,
     Current_Borrows INT,
+    Membership_Type CHAR(10) NOT NULL,
     FOREIGN KEY (User_ID) REFERENCES User(User_ID),
     FOREIGN KEY (Membership_Type) REFERENCES Membership(Membership_Type)
 );
@@ -108,7 +112,7 @@ CREATE TABLE Borrow (
 CREATE TABLE Author (
     Author_ID CHAR(10) PRIMARY KEY,
     Name VARCHAR(20) NOT NULL,
-    Biography CLOB,
+    Biography TEXT,
     Date_of_Birth DATE,
     Date_of_Death DATE
 );
@@ -131,10 +135,9 @@ CREATE TABLE Publisher (
 
 CREATE TABLE Transaction_Involves_Item (
     Transaction_ID CHAR(10) PRIMARY KEY,
-    Item_ID CHAR(10) PRIMARY KEY,
+    Item_ID CHAR(10),
     FOREIGN KEY (Transaction_ID) REFERENCES Transaction(Transaction_ID),
-    FOREIGN KEY (Item_ID) REFERENCES Item(Item_ID),
-    PRIMARY KEY (Transaction_ID, Item_ID)
+    FOREIGN KEY (Item_ID) REFERENCES Item(Item_ID)
 );
 
 CREATE TABLE Author_Writes_Item (
@@ -148,39 +151,34 @@ CREATE TABLE Author_Writes_Item (
 CREATE TABLE Has_Membership (
     User_ID CHAR(10) PRIMARY KEY,
     Membership_Type CHAR(10),
-    PRIMARY KEY (User_ID),
     FOREIGN KEY (User_ID) REFERENCES User(User_ID),
     FOREIGN KEY (Membership_Type) REFERENCES Membership(Membership_Type)
 );
 
 CREATE TABLE Membership_Transaction (
-    Transaction_ID CHAR(10),
+    Transaction_ID CHAR(10) PRIMARY KEY,
     Membership_Type CHAR(10),
-    PRIMARY KEY (Transaction_ID),
     FOREIGN KEY (Transaction_ID) REFERENCES Transaction(Transaction_ID),
     FOREIGN KEY (Membership_Type) REFERENCES Membership(Membership_Type)
 );
 
 CREATE TABLE Publishes (
     Publisher_ID CHAR(10),
-    Item_ID CHAR(10),
-    PRIMARY KEY (Item_ID),
+    Item_ID CHAR(10) PRIMARY KEY,
     FOREIGN KEY (Publisher_ID) REFERENCES Publisher(Publisher_ID),
     FOREIGN KEY (Item_ID) REFERENCES Item(Item_ID)
 );
 
 CREATE TABLE Belongs (
-    Item_ID CHAR(10),
+    Item_ID CHAR(10) PRIMARY KEY,
     Genre_Name VARCHAR(20),
-    PRIMARY KEY (Item_ID),
     FOREIGN KEY (Item_ID) REFERENCES Item(Item_ID),
     FOREIGN KEY (Genre_Name) REFERENCES Genre(Genre_Name)
 );
 
 CREATE TABLE Performs (
     User_ID CHAR(10),
-    Transaction_ID CHAR(10),
-    PRIMARY KEY (Transaction_ID),
+    Transaction_ID CHAR(10) PRIMARY KEY,
     FOREIGN KEY (User_ID) REFERENCES User(User_ID),
     FOREIGN KEY (Transaction_ID) REFERENCES Transaction(Transaction_ID)
 );
