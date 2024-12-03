@@ -1,0 +1,5 @@
+Membership_Type,Borrow_Limit,Membership_Fee,Discount_Rate
+Standard,7,5.00,0.10
+Basic,8,6.00,0.20
+Advanced,9,7.00,0.30
+Super,10,8.00,0.40

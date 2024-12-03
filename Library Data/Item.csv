@@ -1,0 +1,101 @@
+Item_ID,Price,Year,Availability_Status,Item_Type
+1,12.99,2002,Reserved,DVD
+2,39.99,2006,Reserved,DVD
+3,29.99,2019,Reserved,DVD
+4,2.99,2009,Checked Out,Digital Media
+5,3.49,2003,Checked Out,Magazine
+6,3.29,2016,Checked Out,Digital Media
+7,4.49,2005,Reserved,Digital Media
+8,5.49,2002,Purchased,Music
+9,29.99,2001,Purchased,Digital Media
+10,34.99,2024,Checked Out,Music
+11,49.99,2006,Purchased,Music
+12,24.99,2009,Purchased,Music
+13,5.79,2021,Reserved,Magazine
+14,3.79,2009,Reserved,Digital Media
+15,14.99,2002,Reserved,DVD
+16,4.99,2024,Checked Out,Music
+17,5.99,2022,Purchased,Book
+18,24.99,2007,Available,Digital Media
+19,1.99,2004,Checked Out,Magazine
+20,2.99,2011,Checked Out,Digital Media
+21,15.99,2021,Available,Magazine
+22,49.99,2001,Available,Digital Media
+23,59.99,2005,Available,Book
+24,5.99,2019,Purchased,Book
+25,49.99,2023,Checked Out,DVD
+26,49.99,2008,Checked Out,Book
+27,39.99,2015,Checked Out,Music
+28,49.99,2010,Checked Out,Digital Media
+29,49.99,2017,Checked Out,Magazine
+30,39.99,2017,Checked Out,Digital Media
+31,22.99,2001,Available,DVD
+32,4.99,2005,Available,Digital Media
+33,29.99,2014,Checked Out,Digital Media
+34,29.99,2019,Checked Out,Digital Media
+35,59.99,2022,Purchased,Book
+36,3.99,2011,Available,Book
+37,19.99,2013,Checked Out,DVD
+38,3.29,2016,Purchased,Digital Media
+39,24.99,2021,Reserved,Digital Media
+40,1.99,2018,Available,Digital Media
+41,3.99,2001,Reserved,Digital Media
+42,5.99,2020,Reserved,Digital Media
+43,1.49,2017,Checked Out,Music
+44,3.99,2014,Purchased,DVD
+45,15.99,2006,Available,DVD
+46,3.99,2000,Checked Out,Book
+47,69.99,2010,Reserved,Digital Media
+48,49.99,2020,Available,DVD
+49,4.29,2013,Checked Out,Music
+50,8.99,2004,Reserved,Magazine
+51,29.99,2016,Purchased,Music
+52,49.99,2017,Reserved,DVD
+53,49.99,2004,Reserved,Magazine
+54,3.29,2023,Reserved,DVD
+55,49.99,2004,Purchased,DVD
+56,4.49,2000,Checked Out,Book
+57,24.99,2020,Reserved,Magazine
+58,3.99,2002,Available,Magazine
+59,4.99,2001,Reserved,DVD
+60,2.99,2010,Reserved,Digital Media
+61,35.99,2003,Purchased,Digital Media
+62,2.99,2020,Available,Book
+63,2.99,2007,Available,Digital Media
+64,24.99,2018,Reserved,Magazine
+65,15.99,2012,Available,Digital Media
+66,6.29,2011,Available,DVD
+67,49.99,2014,Available,Book
+68,49.99,2021,Checked Out,Digital Media
+69,3.79,2016,Checked Out,Magazine
+70,2.99,2013,Available,Music
+71,7.49,2005,Reserved,Magazine
+72,19.99,2023,Available,DVD
+73,30,2022,Purchased,DVD
+74,2.99,2016,Reserved,Magazine
+75,39.99,2011,Checked Out,Magazine
+76,34.99,2010,Purchased,Music
+77,15.99,2020,Purchased,Magazine
+78,5.99,2005,Reserved,Music
+79,49.99,2016,Reserved,DVD
+80,24.99,2009,Purchased,DVD
+81,5.49,2023,Purchased,Book
+82,3.99,2011,Checked Out,Magazine
+83,24.99,2019,Available,DVD
+84,4.49,2024,Checked Out,Book
+85,29.99,2007,Checked Out,Music
+86,2.99,2024,Reserved,Digital Media
+87,59.99,2009,Purchased,Magazine
+88,24.99,2001,Available,Book
+89,6.99,2001,Purchased,Magazine
+90,199,2018,Purchased,Magazine
+91,2.49,2022,Checked Out,Digital Media
+92,79.99,2010,Checked Out,Book
+93,199.99,2022,Reserved,Book
+94,2.49,2013,Reserved,Book
+95,5.79,2009,Available,Digital Media
+96,39.99,2019,Checked Out,DVD
+97,3.99,2002,Available,Magazine
+98,4.99,2014,Checked Out,Digital Media
+99,79.99,2023,Purchased,Digital Media
+100,19.99,2005,Checked Out,Magazine

@@ -1,0 +1,51 @@
+Transaction_ID,Purchase_Amount,Purchase_Type,Payment_Method
+83,38.73,Wholesale,Cash
+83,44.84,Bulk Order,Credit Card
+4,37.35,Pre-order,Other
+35,39.93,Auction,Cash
+80,53.42,Auction,Other
+7,41.17,Auction,Other
+20,55.48,Pre-order,Cash
+30,53.49,Online,Credit Card
+71,46.94,Auction,Other
+54,42.79,Wholesale,Debit Card
+74,61.07,In-Store,Cash
+82,43.90,Subscription,Debit Card
+32,46.67,Gift,Cash
+75,40.54,Auction,Cash
+75,40.17,In-Store,Credit Card
+37,58.70,Online,Other
+70,38.01,Bulk Order,Credit Card
+53,46.40,Pre-order,Credit Card
+28,45.82,Online,Cash
+23,48.67,Wholesale,Debit Card
+39,50.32,Auction,Other
+4,50.89,Subscription,Credit Card
+33,61.72,Wholesale,Debit Card
+16,60.54,Online,Cash
+17,58.72,Pre-order,Cash
+73,42.94,Online,Credit Card
+32,57.51,Gift,Other
+65,37.34,Gift,Other
+5,51.81,Subscription,Credit Card
+4,48.36,Auction,Credit Card
+74,59.84,Gift,Cash
+49,39.08,Auction,Debit Card
+2,58.61,Wholesale,Other
+83,43.15,Pre-order,Other
+6,37.29,Auction,Cash
+27,38.56,Gift,Cash
+8,40.99,Bulk Order,Other
+25,38.29,Wholesale,Cash
+80,53.00,Gift,Credit Card
+91,50.97,Pre-order,Other
+6,37.36,Wholesale,Credit Card
+48,37.88,Pre-order,Debit Card
+60,48.61,Pre-order,Cash
+33,59.07,Auction,Credit Card
+78,39.75,Wholesale,Cash
+32,58.29,Wholesale,Debit Card
+67,42.06,Online,Debit Card
+13,43.27,Gift,Other
+81,41.52,In-Store,Cash
+52,58.67,Pre-order,Cash
