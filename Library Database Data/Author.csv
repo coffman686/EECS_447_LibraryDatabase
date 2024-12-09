@@ -1,14 +1,6 @@
-Author_ID,Name,Biography,Date_of_Birth,Date_of_Death
 1,Doti Matts,James White's thrillers are known for their intense suspense and unexpected twists. His ability to craft convincing and engaging narratives keeps readers on the edge of their seats.,1942-08-07,2007-12-14
-2,Horten Craft,Michael Wilson revolutionized the world of fantasy literature with his imaginative worlds and memorable characters. His contributions have continued to inspire generations of readers.,1947-02-11,2012-01-22
-3,Cleavland Autrie,"Laura Davis' literary achievements earned her a spot among the most respected novelists of her time, focusing on historical fiction and portraying vivid imagery of past eras.",1978-09-30,
-4,Mercedes Shoulder,Emily Johnson captivated readers with her intricate plots and richly developed characters. Her novels often explore the complexities of human relationships and emotions.,1954-11-22,2005-03-17
-5,Desdemona Manifould,Linda Thompson's poetic works are celebrated for their lyrical beauty and emotional resonance. Her writing often reflects her deep connection with nature and spirituality.,1959-03-05,
-6,Hermie Corwood,"Sarah Martinez's poignant storytelling has touched millions, tackling social issues through her powerful narratives. Her works are celebrated for their depth and insight.",1965-07-17,
-7,Corrine Lowrey,David Hernandez is known for his evocative poetry and essays that offer profound reflections on nature and existence. His literary style is both elegant and thought-provoking.,1936-10-03,2015-06-28
-8,August Dobbison,"Laura Davis' literary achievements earned her a spot among the most respected novelists of her time, focusing on historical fiction and portraying vivid imagery of past eras.",1978-09-30,
-9,Sarina Askham,James White's thrillers are known for their intense suspense and unexpected twists. His ability to craft convincing and engaging narratives keeps readers on the edge of their seats.,1942-08-07,2007-12-14
 10,Tucker Ummfrey,James White's thrillers are known for their intense suspense and unexpected twists. His ability to craft convincing and engaging narratives keeps readers on the edge of their seats.,1942-08-07,2007-12-14
+100,Pincas Cowthart,Linda Thompson's poetic works are celebrated for their lyrical beauty and emotional resonance. Her writing often reflects her deep connection with nature and spirituality.,1959-03-05,
 11,Mike Mouse,Michael Wilson revolutionized the world of fantasy literature with his imaginative worlds and memorable characters. His contributions have continued to inspire generations of readers.,1947-02-11,2012-01-22
 12,Davita Pulteneye,"John Smith was an influential author in the early 20th century, known for his compelling narratives and unique storytelling techniques. His works often delve into themes of identity and existentialism.",1923-04-15,1998-09-25
 13,Fidelity Minucci,"Sophia Lee made her mark in children's literature, weaving enchanting tales that spark imagination and wonder in young readers worldwide.",1988-02-29,
@@ -18,6 +10,7 @@ Author_ID,Name,Biography,Date_of_Birth,Date_of_Death
 17,Ethelind Callear,Emily Johnson captivated readers with her intricate plots and richly developed characters. Her novels often explore the complexities of human relationships and emotions.,1954-11-22,2005-03-17
 18,Elisa Iskowicz,"Sarah Martinez's poignant storytelling has touched millions, tackling social issues through her powerful narratives. Her works are celebrated for their depth and insight.",1965-07-17,
 19,Nevin Spottiswoode,"Robert Brown was a prolific writer whose works spanned multiple genres, including mystery, science fiction, and romance. His versatility made him a favorite among diverse audiences.",1911-06-07,
+2,Horten Craft,Michael Wilson revolutionized the world of fantasy literature with his imaginative worlds and memorable characters. His contributions have continued to inspire generations of readers.,1947-02-11,2012-01-22
 20,Beltran Ramsby,James White's thrillers are known for their intense suspense and unexpected twists. His ability to craft convincing and engaging narratives keeps readers on the edge of their seats.,1942-08-07,2007-12-14
 21,Nonie Lemmon,"John Smith was an influential author in the early 20th century, known for his compelling narratives and unique storytelling techniques. His works often delve into themes of identity and existentialism.",1923-04-15,1998-09-25
 22,Clarita Enser,Linda Thompson's poetic works are celebrated for their lyrical beauty and emotional resonance. Her writing often reflects her deep connection with nature and spirituality.,1959-03-05,
@@ -28,6 +21,7 @@ Author_ID,Name,Biography,Date_of_Birth,Date_of_Death
 27,Zachary Asty,Linda Thompson's poetic works are celebrated for their lyrical beauty and emotional resonance. Her writing often reflects her deep connection with nature and spirituality.,1959-03-05,
 28,Austin Chataignier,"John Smith was an influential author in the early 20th century, known for his compelling narratives and unique storytelling techniques. His works often delve into themes of identity and existentialism.",1923-04-15,1998-09-25
 29,Constantino Stalman,"Robert Brown was a prolific writer whose works spanned multiple genres, including mystery, science fiction, and romance. His versatility made him a favorite among diverse audiences.",1911-06-07,
+3,Cleavland Autrie,"Laura Davis' literary achievements earned her a spot among the most respected novelists of her time, focusing on historical fiction and portraying vivid imagery of past eras.",1978-09-30,
 30,Amalea Barrasse,"Laura Davis' literary achievements earned her a spot among the most respected novelists of her time, focusing on historical fiction and portraying vivid imagery of past eras.",1978-09-30,
 31,Jacynth Wolverson,"John Smith was an influential author in the early 20th century, known for his compelling narratives and unique storytelling techniques. His works often delve into themes of identity and existentialism.",1923-04-15,1998-09-25
 32,Peggie Lory,"John Smith was an influential author in the early 20th century, known for his compelling narratives and unique storytelling techniques. His works often delve into themes of identity and existentialism.",1923-04-15,1998-09-25
@@ -38,6 +32,7 @@ Author_ID,Name,Biography,Date_of_Birth,Date_of_Death
 37,Elayne Cossum,"Laura Davis' literary achievements earned her a spot among the most respected novelists of her time, focusing on historical fiction and portraying vivid imagery of past eras.",1978-09-30,
 38,Nowell Rivaland,Emily Johnson captivated readers with her intricate plots and richly developed characters. Her novels often explore the complexities of human relationships and emotions.,1954-11-22,2005-03-17
 39,Derk Estrella,Emily Johnson captivated readers with her intricate plots and richly developed characters. Her novels often explore the complexities of human relationships and emotions.,1954-11-22,2005-03-17
+4,Mercedes Shoulder,Emily Johnson captivated readers with her intricate plots and richly developed characters. Her novels often explore the complexities of human relationships and emotions.,1954-11-22,2005-03-17
 40,Flem Pemble,"Sophia Lee made her mark in children's literature, weaving enchanting tales that spark imagination and wonder in young readers worldwide.",1988-02-29,
 41,Read Karlik,"Laura Davis' literary achievements earned her a spot among the most respected novelists of her time, focusing on historical fiction and portraying vivid imagery of past eras.",1978-09-30,
 42,Cathy Byas,Emily Johnson captivated readers with her intricate plots and richly developed characters. Her novels often explore the complexities of human relationships and emotions.,1954-11-22,2005-03-17
@@ -48,7 +43,11 @@ Author_ID,Name,Biography,Date_of_Birth,Date_of_Death
 47,Tore Primarolo,Emily Johnson captivated readers with her intricate plots and richly developed characters. Her novels often explore the complexities of human relationships and emotions.,1954-11-22,2005-03-17
 48,Leann Papaminas,"Sophia Lee made her mark in children's literature, weaving enchanting tales that spark imagination and wonder in young readers worldwide.",1988-02-29,
 49,Lauraine Efford,James White's thrillers are known for their intense suspense and unexpected twists. His ability to craft convincing and engaging narratives keeps readers on the edge of their seats.,1942-08-07,2007-12-14
+5,Desdemona Manifould,Linda Thompson's poetic works are celebrated for their lyrical beauty and emotional resonance. Her writing often reflects her deep connection with nature and spirituality.,1959-03-05,
 50,Timmie Stribling,Michael Wilson revolutionized the world of fantasy literature with his imaginative worlds and memorable characters. His contributions have continued to inspire generations of readers.,1947-02-11,2012-01-22
+501,J.K. Rowling,Author of the Harry Potter series,1965-07-31,
+502,George Orwell,Author of dystopian novels like 1984 and Animal Farm,1903-06-25,1950-01-21
+503,Harper Lee,Author of To Kill a Mockingbird,1926-04-28,2016-02-19
 51,Audie Polfer,"Sophia Lee made her mark in children's literature, weaving enchanting tales that spark imagination and wonder in young readers worldwide.",1988-02-29,
 52,Brittan Le Claire,"Sophia Lee made her mark in children's literature, weaving enchanting tales that spark imagination and wonder in young readers worldwide.",1988-02-29,
 53,Delano Townsend,"Sarah Martinez's poignant storytelling has touched millions, tackling social issues through her powerful narratives. Her works are celebrated for their depth and insight.",1965-07-17,
@@ -58,6 +57,7 @@ Author_ID,Name,Biography,Date_of_Birth,Date_of_Death
 57,Alicia Kubas,James White's thrillers are known for their intense suspense and unexpected twists. His ability to craft convincing and engaging narratives keeps readers on the edge of their seats.,1942-08-07,2007-12-14
 58,Violante McCormick,"Sarah Martinez's poignant storytelling has touched millions, tackling social issues through her powerful narratives. Her works are celebrated for their depth and insight.",1965-07-17,
 59,Halette Carrack,Linda Thompson's poetic works are celebrated for their lyrical beauty and emotional resonance. Her writing often reflects her deep connection with nature and spirituality.,1959-03-05,
+6,Hermie Corwood,"Sarah Martinez's poignant storytelling has touched millions, tackling social issues through her powerful narratives. Her works are celebrated for their depth and insight.",1965-07-17,
 60,Bianka Frankham,"John Smith was an influential author in the early 20th century, known for his compelling narratives and unique storytelling techniques. His works often delve into themes of identity and existentialism.",1923-04-15,1998-09-25
 61,Codee Lawey,"Robert Brown was a prolific writer whose works spanned multiple genres, including mystery, science fiction, and romance. His versatility made him a favorite among diverse audiences.",1911-06-07,
 62,Hurlee Durant,James White's thrillers are known for their intense suspense and unexpected twists. His ability to craft convincing and engaging narratives keeps readers on the edge of their seats.,1942-08-07,2007-12-14
@@ -68,6 +68,7 @@ Author_ID,Name,Biography,Date_of_Birth,Date_of_Death
 67,Caralie Renouf,"Sophia Lee made her mark in children's literature, weaving enchanting tales that spark imagination and wonder in young readers worldwide.",1988-02-29,
 68,Allie Gorman,Michael Wilson revolutionized the world of fantasy literature with his imaginative worlds and memorable characters. His contributions have continued to inspire generations of readers.,1947-02-11,2012-01-22
 69,Vivian Tockell,Michael Wilson revolutionized the world of fantasy literature with his imaginative worlds and memorable characters. His contributions have continued to inspire generations of readers.,1947-02-11,2012-01-22
+7,Corrine Lowrey,David Hernandez is known for his evocative poetry and essays that offer profound reflections on nature and existence. His literary style is both elegant and thought-provoking.,1936-10-03,2015-06-28
 70,Park Kopje,"Sarah Martinez's poignant storytelling has touched millions, tackling social issues through her powerful narratives. Her works are celebrated for their depth and insight.",1965-07-17,
 71,Derrick Bradburne,Emily Johnson captivated readers with her intricate plots and richly developed characters. Her novels often explore the complexities of human relationships and emotions.,1954-11-22,2005-03-17
 72,Pearline Garoghan,Michael Wilson revolutionized the world of fantasy literature with his imaginative worlds and memorable characters. His contributions have continued to inspire generations of readers.,1947-02-11,2012-01-22
@@ -78,6 +79,7 @@ Author_ID,Name,Biography,Date_of_Birth,Date_of_Death
 77,Rooney Ledrun,"Robert Brown was a prolific writer whose works spanned multiple genres, including mystery, science fiction, and romance. His versatility made him a favorite among diverse audiences.",1911-06-07,
 78,Kitti Deval,"Sarah Martinez's poignant storytelling has touched millions, tackling social issues through her powerful narratives. Her works are celebrated for their depth and insight.",1965-07-17,
 79,Dagny Hall-Gough,Michael Wilson revolutionized the world of fantasy literature with his imaginative worlds and memorable characters. His contributions have continued to inspire generations of readers.,1947-02-11,2012-01-22
+8,August Dobbison,"Laura Davis' literary achievements earned her a spot among the most respected novelists of her time, focusing on historical fiction and portraying vivid imagery of past eras.",1978-09-30,
 80,Griffin Hynde,Linda Thompson's poetic works are celebrated for their lyrical beauty and emotional resonance. Her writing often reflects her deep connection with nature and spirituality.,1959-03-05,
 81,Newton Sedgebeer,David Hernandez is known for his evocative poetry and essays that offer profound reflections on nature and existence. His literary style is both elegant and thought-provoking.,1936-10-03,2015-06-28
 82,Natty Woodard,"Robert Brown was a prolific writer whose works spanned multiple genres, including mystery, science fiction, and romance. His versatility made him a favorite among diverse audiences.",1911-06-07,
@@ -88,6 +90,7 @@ Author_ID,Name,Biography,Date_of_Birth,Date_of_Death
 87,Hobie Paradyce,"Sarah Martinez's poignant storytelling has touched millions, tackling social issues through her powerful narratives. Her works are celebrated for their depth and insight.",1965-07-17,
 88,Jolie Cancott,Linda Thompson's poetic works are celebrated for their lyrical beauty and emotional resonance. Her writing often reflects her deep connection with nature and spirituality.,1959-03-05,
 89,Daisy Walker,"Sophia Lee made her mark in children's literature, weaving enchanting tales that spark imagination and wonder in young readers worldwide.",1988-02-29,
+9,Sarina Askham,James White's thrillers are known for their intense suspense and unexpected twists. His ability to craft convincing and engaging narratives keeps readers on the edge of their seats.,1942-08-07,2007-12-14
 90,Jdavie Aspray,Linda Thompson's poetic works are celebrated for their lyrical beauty and emotional resonance. Her writing often reflects her deep connection with nature and spirituality.,1959-03-05,
 91,Tedda MacNeachtain,David Hernandez is known for his evocative poetry and essays that offer profound reflections on nature and existence. His literary style is both elegant and thought-provoking.,1936-10-03,2015-06-28
 92,Josefina Sinnocke,Linda Thompson's poetic works are celebrated for their lyrical beauty and emotional resonance. Her writing often reflects her deep connection with nature and spirituality.,1959-03-05,
@@ -98,4 +101,3 @@ Author_ID,Name,Biography,Date_of_Birth,Date_of_Death
 97,Jeddy Woollacott,Emily Johnson captivated readers with her intricate plots and richly developed characters. Her novels often explore the complexities of human relationships and emotions.,1954-11-22,2005-03-17
 98,Dorotea Fennelow,David Hernandez is known for his evocative poetry and essays that offer profound reflections on nature and existence. His literary style is both elegant and thought-provoking.,1936-10-03,2015-06-28
 99,Ludvig Bransom,Linda Thompson's poetic works are celebrated for their lyrical beauty and emotional resonance. Her writing often reflects her deep connection with nature and spirituality.,1959-03-05,
-100,Pincas Cowthart,Linda Thompson's poetic works are celebrated for their lyrical beauty and emotional resonance. Her writing often reflects her deep connection with nature and spirituality.,1959-03-05,

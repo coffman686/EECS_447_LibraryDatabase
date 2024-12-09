@@ -1,0 +1,233 @@
+1,1,2002,Reserved,DVD
+10,34,2024,Checked Out,Music
+100,19,2005,Checked Out,Magazine
+101,500,2021,Available,Book
+102,300,2020,Checked Out,Magazine
+103,150,2022,Purchased,DVD
+11,49,2006,Purchased,Music
+12,24,2009,Purchased,Music
+13,5,2021,Reserved,Magazine
+14,3,2009,Reserved,Digital Media
+15,2,2002,Reserved,DVD
+16,4,2024,Checked Out,Music
+17,5,2022,Purchased,Book
+18,24,2007,Available,Digital Media
+19,1,2004,Checked Out,Magazine
+2,4,2006,Reserved,DVD
+20,2,2011,Checked Out,Digital Media
+201,20,2020,Checked Out,Book
+202,15,2018,Checked Out,Book
+203,25,2019,Checked Out,Book
+204,30,2021,Checked Out,Book
+205,10,2017,Checked Out,Book
+206,22,2021,Checked Out,Book
+207,18,2020,Checked Out,Book
+208,28,2019,Checked Out,Book
+209,35,2021,Checked Out,Book
+21,15,2021,Available,Magazine
+210,12,2018,Checked Out,Book
+211,18,2022,Checked Out,Book
+212,20,2023,Checked Out,Book
+213,25,2021,Checked Out,Book
+214,15,2020,Checked Out,Book
+215,22,2019,Checked Out,Book
+216,12,2020,Available,Book
+217,15,2021,Available,Book
+218,18,2022,Available,Book
+219,20,2023,Available,Book
+22,49,2001,Available,Digital Media
+220,22,2019,Available,Book
+221,14,2018,Available,Book
+222,16,2023,Available,Book
+223,19,2021,Available,Book
+224,21,2020,Available,Book
+225,23,2019,Available,Book
+23,59,2005,Available,Book
+24,5,2019,Purchased,Book
+25,49,2023,Checked Out,DVD
+26,49,2008,Checked Out,Book
+27,39,2015,Checked Out,Music
+28,49,2010,Checked Out,Digital Media
+29,49,2017,Checked Out,Magazine
+3,3,2019,Reserved,DVD
+30,39,2017,Checked Out,Digital Media
+31,2,2001,Available,DVD
+32,4,2005,Available,Digital Media
+33,29,2014,Checked Out,Digital Media
+34,29,2019,Checked Out,Digital Media
+35,59,2022,Purchased,Book
+36,3,2011,Available,Book
+37,2,2013,Checked Out,DVD
+38,3,2016,Purchased,Digital Media
+39,24,2021,Reserved,Digital Media
+4,2,2009,Checked Out,Digital Media
+40,1,2018,Available,Digital Media
+41,3,2001,Reserved,Digital Media
+42,5,2020,Reserved,Digital Media
+43,1,2017,Checked Out,Music
+44,0,2014,Purchased,DVD
+45,2,2006,Available,DVD
+46,3,2000,Checked Out,Book
+47,69,2010,Reserved,Digital Media
+48,49,2020,Available,DVD
+49,4,2013,Checked Out,Music
+5,3,2003,Checked Out,Magazine
+50,8,2004,Reserved,Magazine
+501,15,2023,Checked Out,Book
+502,20,2022,Checked Out,Book
+503,25,2021,Checked Out,Book
+504,30,2020,Checked Out,Book
+505,10,2023,Checked Out,Book
+506,12,2022,Checked Out,Book
+507,18,2021,Checked Out,Book
+508,22,2023,Checked Out,Book
+509,17,2020,Checked Out,Book
+51,29,2016,Purchased,Music
+510,19,2023,Checked Out,Book
+511,21,2022,Checked Out,Book
+512,23,2021,Checked Out,Book
+513,25,2023,Checked Out,Book
+514,27,2022,Checked Out,Book
+515,29,2023,Checked Out,Book
+52,5,2017,Reserved,DVD
+53,49,2004,Reserved,Magazine
+54,3,2023,Reserved,DVD
+55,5,2004,Purchased,DVD
+56,4,2000,Checked Out,Book
+57,24,2020,Reserved,Magazine
+58,3,2002,Available,Magazine
+59,0,2001,Reserved,DVD
+6,3,2016,Checked Out,Digital Media
+60,2,2010,Reserved,Digital Media
+61,35,2003,Purchased,Digital Media
+62,2,2020,Available,Book
+63,2,2007,Available,Digital Media
+64,24,2018,Reserved,Magazine
+65,15,2012,Available,Digital Media
+66,1,2011,Available,DVD
+67,49,2014,Available,Book
+68,49,2021,Checked Out,Digital Media
+69,3,2016,Checked Out,Magazine
+7,4,2005,Reserved,Digital Media
+70,2,2013,Available,Music
+71,7,2005,Reserved,Magazine
+72,19,2023,Available,DVD
+73,30,2022,Purchased,DVD
+74,2,2016,Reserved,Magazine
+75,39,2011,Checked Out,Magazine
+76,34,2010,Purchased,Music
+77,15,2020,Purchased,Magazine
+78,5,2005,Reserved,Music
+79,5,2016,Reserved,DVD
+8,5,2002,Purchased,Music
+80,3,2009,Purchased,DVD
+81,5,2023,Purchased,Book
+82,3,2011,Checked Out,Magazine
+83,3,2019,Available,DVD
+84,4,2024,Checked Out,Book
+85,29,2007,Checked Out,Music
+86,2,2024,Reserved,Digital Media
+87,59,2009,Purchased,Magazine
+88,24,2001,Available,Book
+89,6,2001,Purchased,Magazine
+9,29,2001,Purchased,Digital Media
+90,199,2018,Purchased,Magazine
+91,2,2022,Checked Out,Digital Media
+92,79,2010,Checked Out,Book
+93,199,2022,Reserved,Book
+94,2,2013,Reserved,Book
+95,5,2009,Available,Digital Media
+96,4,2019,Checked Out,DVD
+97,3,2002,Available,Magazine
+98,4,2014,Checked Out,Digital Media
+99,79,2023,Purchased,Digital Media
+I301,25,2017,Available,Book
+I302,30,2018,Available,Book
+I303,28,2020,Available,Book
+I304,35,2015,Available,Book
+I305,20,2022,Available,Book
+I306,22,2021,Available,Book
+I307,24,2019,Available,Book
+I308,27,2016,Available,Book
+I309,32,2014,Available,Book
+I310,29,2013,Available,Book
+I311,20,2018,Available,Book
+I312,18,2020,Available,Book
+I313,15,2016,Available,Book
+I314,22,2019,Available,Book
+I315,24,2021,Available,Book
+I316,26,2015,Available,Book
+I317,19,2017,Available,Book
+I318,23,2013,Available,Book
+I319,21,2014,Available,Book
+I320,27,2012,Available,Book
+I321,28,2018,Available,Book
+I322,30,2019,Available,Book
+I323,25,2020,Available,Book
+I324,22,2021,Available,Book
+I325,24,2022,Available,Book
+I326,20,2015,Available,Book
+I327,27,2017,Available,Book
+I328,23,2013,Available,Book
+I329,21,2014,Available,Book
+I330,29,2016,Available,Book
+I331,18,2018,Available,Book
+I332,22,2017,Available,Book
+I333,20,2019,Available,Book
+I334,25,2015,Available,Book
+I335,23,2020,Available,Book
+I336,25,2015,Available,Book
+I337,24,2017,Available,Book
+I338,22,2018,Available,Book
+I339,26,2020,Available,Book
+I340,23,2019,Available,Book
+I341,18,2018,Available,Book
+I342,22,2016,Available,Book
+I343,20,2019,Available,Book
+I344,25,2015,Available,Book
+I345,23,2020,Available,Book
+I346,30,2016,Available,Book
+I347,28,2018,Available,Book
+I348,27,2020,Available,Book
+I349,32,2019,Available,Book
+I350,29,2017,Available,Book
+I351,30,2020,Available,Book
+I352,28,2018,Available,Book
+I353,27,2017,Available,Book
+I354,25,2019,Available,Book
+I355,29,2016,Available,Book
+I356,24,2015,Available,Book
+I357,32,2021,Available,Book
+I358,26,2020,Available,Book
+I359,31,2018,Available,Book
+I360,33,2022,Available,Book
+I361,30,2020,Available,Book
+I362,28,2019,Available,Book
+I363,27,2021,Available,Book
+I364,26,2018,Available,Book
+I365,29,2017,Available,Book
+I366,25,2016,Available,Book
+I367,34,2023,Available,Book
+I368,31,2022,Available,Book
+I369,30,2021,Available,Book
+I370,32,2020,Available,Book
+I371,20,2015,Available,Book
+I372,25,2016,Available,Book
+I373,22,2017,Available,Book
+I374,30,2018,Available,Book
+I375,18,2019,Available,Book
+I376,23,2020,Available,Book
+I377,28,2021,Available,Book
+I378,21,2018,Available,Book
+I379,24,2019,Available,Book
+I380,27,2020,Available,Book
+I381,20,2021,Available,Book
+I382,22,2022,Available,Book
+I383,25,2020,Available,Book
+I384,19,2017,Available,Book
+I385,26,2024,Available,Book
+I386,29,2024,Available,Book
+I387,21,2024,Available,Book
+I388,23,2024,Available,Book
+I389,20,2024,Available,Book
+I390,24,2024,Available,Book
