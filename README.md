@@ -1,5 +1,7 @@
 Library DBMS Project for EECS 447.
 
+NOTE: Alternate Demo can be found in the Documents folder in the "Library Database Demo" File.
+
 All of the documentation, meeting logs, source files and data files can be found on this GitHub Repository.
 
 To start an instance of this database with DataGrip and mySQL follow the Documentation within the "Database Implementation and Testing" Document.
